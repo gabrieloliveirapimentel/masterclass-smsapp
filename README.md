@@ -1,4 +1,4 @@
-# Masterclass: Verificação automática de SMS no React Native
+# Masterclass: Verificação automática de SMS
 
 Todo mundo já recebeu um código de autenticação via SMS, seja por um padrão de cadastro novo ou numa verificação em duas etapas. Em qualquer um dos casos, ter que sair da tela principal do aplicativo para a tela de mensagens é sempre um trabalho extra que dá pra ser evitado, mas isso precisa partir lá do desenvolvimento do app. Nessa aplicação. é feita essa automação. 
 
